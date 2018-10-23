@@ -48,8 +48,8 @@ tests:
 ```html
 <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
 <style>
-  .red-text {
-    color: red;
+  .brown-text {
+    color: brown;
   }
 
   h2 {
@@ -66,9 +66,9 @@ tests:
   }
 </style>
 
-<h2 class="red-text">CatPhotoApp</h2>
+<h2 class="brown-text">CatPhotoApp</h2>
 <main>
-  <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
+  <p class="brown-text">Click here to view more <a href="#">cat photos</a>.</p>
 
   <a href="#"><img class="smaller-image" src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
 
